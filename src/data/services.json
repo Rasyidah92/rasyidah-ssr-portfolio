@@ -1,0 +1,294 @@
+{
+  "categories": [
+    {
+      "name": "🧰 BASIC SERVICES",
+      "slug": "basic",
+      "services": [
+        {
+          "id": "portfolio",
+          "name": "Personal Portfolio Website",
+          "price": "600-1500",
+          "description": "Portfolio profesional 3-5 halaman untuk freelancer, pelajar, atau profesional. Responsif, moden, dan dioptimumkan untuk SEO.",
+          "icon": "bx-user-circle"
+        },
+        {
+          "id": "landing",
+          "name": "Simple Landing Page",
+          "price": "500-1200",
+          "description": "Halaman tunggal responsif untuk promosi produk, servis, event, atau kempen marketing.",
+          "icon": "bx-landscape"
+        },
+        {
+          "id": "todo",
+          "name": "To-Do List App",
+          "price": "400-800",
+          "description": "Aplikasi web ringkas untuk pengurusan tugas harian. CRUD operations, local storage, filter tasks.",
+          "icon": "bx-list-check"
+        },
+        {
+          "id": "card-design",
+          "name": "Profile Card Design",
+          "price": "200-400",
+          "description": "Kad profil digital interaktif untuk media sosial, portfolio, atau kad perniagaan digital.",
+          "icon": "bx-id-card"
+        },
+        {
+          "id": "gallery",
+          "name": "Static Gallery",
+          "price": "400-800",
+          "description": "Galeri foto responsif dengan grid layout, lightbox image viewer, filter kategori, dan lazy loading.",
+          "icon": "bx-photo-album"
+        }
+      ]
+    },
+    {
+      "name": "⚙️ STANDARD SERVICES",
+      "slug": "standard",
+      "services": [
+        {
+          "id": "company-website",
+          "name": "Company Website",
+          "price": "2500-6000",
+          "description": "Laman web profesional untuk syarikat kecil-sederhana. 5-10 halaman, Google Maps integration, SEO friendly.",
+          "icon": "bx-building"
+        },
+        {
+          "id": "e-commerce",
+          "name": "E-commerce Frontend",
+          "price": "3500-7000",
+          "description": "Antara muka kedai online dengan product listing, product detail, shopping cart, dan product search.",
+          "icon": "bx-cart-alt"
+        },
+        {
+          "id": "blog",
+          "name": "Blog Frontend",
+          "price": "1800-4000",
+          "description": "Antara muka blog yang bersih dan responsif. Blog listing, single post, category filtering, search, social sharing.",
+          "icon": "bx-news"
+        },
+        {
+          "id": "dashboard",
+          "name": "Dashboard UI",
+          "price": "3000-6000",
+          "description": "Antara muka dashboard dengan charts, data tables, cards, navigation sidebar, dan dark/light mode.",
+          "icon": "bx-tachometer"
+        },
+        {
+          "id": "interactive-library",
+          "name": "Components Library",
+          "price": "2500-5000",
+          "description": "Koleksi UI components reusable seperti modal, dropdown, accordion, tabs, carousel, tooltips.",
+          "icon": "bx-slider-alt"
+        }
+      ]
+    },
+    {
+      "name": "🚀 PREMIUM SERVICES",
+      "slug": "premium",
+      "services": [
+        {
+          "id": "full-react",
+          "name": "React/Vue SPA",
+          "price": "5000-15000",
+          "description": "Single Page Application moden menggunakan React.js atau Vue.js. State management, routing, API integration.",
+          "icon": "bxl-react"
+        },
+        {
+          "id": "pwa",
+          "name": "PWA Development",
+          "price": "4500-12000",
+          "description": "Progressive Web App dengan offline functionality, installable, push notifications, background sync, app-like experience.",
+          "icon": "bx-mobile-alt"
+        },
+        {
+          "id": "complete-e-commerce",
+          "name": "Full E-commerce",
+          "price": "6000-20000",
+          "description": "Penyelesaian e-commerce lengkap dengan product filtering, cart, checkout UI, user authentication, order tracking, wishlist.",
+          "icon": "bx-store"
+        },
+        {
+          "id": "interactive-dashboard",
+          "name": "Interactive Dashboard",
+          "price": "6000-18000",
+          "description": "Dashboard interaktif dengan data visualization, real-time updates, advanced charts, drill-down capabilities.",
+          "icon": "bx-line-chart"
+        },
+        {
+          "id": "complete-website",
+          "name": "Portfolio + CMS",
+          "price": "4500-10000",
+          "description": "Portfolio lengkap dengan blog dan headless CMS integration (Strapi/Sanity/WordPress). Boleh update content sendiri.",
+          "icon": "bx-layer"
+        }
+      ]
+    },
+    {
+      "name": "➕ ADD-ON SERVICES",
+      "slug": "addon",
+      "services": [
+        {
+          "id": "deployment",
+          "name": "Deployment Service",
+          "price": "150-300",
+          "description": "Setup hosting, domain configuration, SSL certificate, dan deploy website ke Netlify, Vercel, atau platform lain.",
+          "icon": "bx-cloud-upload"
+        },
+        {
+          "id": "extra-page",
+          "name": "Extra Page",
+          "price": "250-500",
+          "description": "Tambah halaman baru ke website sedia ada. Design & development, integration, responsive, SEO optimized.",
+          "icon": "bx-plus-circle"
+        },
+        {
+          "id": "add-revision",
+          "name": "Additional Revisions",
+          "price": "80-150",
+          "description": "Revisi tambahan selepas project completion. Perubahan minor, content updates, bug fixes.",
+          "icon": "bx-revision"
+        },
+        {
+          "id": "seo",
+          "name": "Basic SEO",
+          "price": "500-1200",
+          "description": "On-page SEO optimization: meta tags, title tags, heading structure, image alt text, sitemap.xml, robots.txt.",
+          "icon": "bx-search-alt"
+        },
+        {
+          "id": "ws-integration",
+          "name": "WhatsApp Integration",
+          "price": "150-300",
+          "description": "Integrasi WhatsApp button, chat widget, click-to-chat dengan pre-filled message templates.",
+          "icon": "bxl-whatsapp"
+        }
+      ]
+    },
+    {
+      "name": "🌟 OTHER SERVICES",
+      "slug": "other",
+      "services": [
+        {
+          "id": "custom",
+          "name": "Freelancer GIS",
+          "price": "Custom",
+          "description": "Pemetaan risiko banjir, digitasi peta, analisis spatial, dan konsultasi GIS menggunakan ArcGIS Desktop, QGIS, dan FME Desktop.",
+          "icon": "bx-map"
+        },
+        {
+          "id": "templates",
+          "name": "Custom Templates",
+          "price": "Custom",
+          "description": "Reka bentuk custom templates untuk business cards, certificates, resumes, dan dokumen profesional lain.",
+          "icon": "bx-file"
+        },
+        {
+          "id": "excel",
+          "name": "Excel Dashboards",
+          "price": "Custom",
+          "description": "Report automation, data visualization, dan dashboard interaktif menggunakan Microsoft Excel advanced.",
+          "icon": "bx-grid-alt"
+        },
+        {
+          "id": "ebooks",
+          "name": "Interactive Ebooks",
+          "price": "Custom",
+          "description": "Digital books dengan flip animation, interactive elements, dan PDF flipbooks untuk marketing atau edukasi.",
+          "icon": "bx-book"
+        }
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "period": "Feb 8, 2021 – May 10, 2021",
+      "role": "Assistant Project Manager / Assistant GIS Executive",
+      "company": "I Net Spatial Sdn Bhd"
+    },
+    {
+      "period": "Feb 5, 2020 – Feb 4, 2021",
+      "role": "Protege - Ready to Work (RTW)",
+      "company": "I Net Spatial Sdn Bhd"
+    },
+    {
+      "period": "Dec 10, 2019 – Dec 27, 2019",
+      "role": "Supervisor Ground Survey Unit (Temporary)",
+      "company": "Alam Flora Sdn Bhd"
+    },
+    {
+      "period": "Oct 1, 2016 – Mar 31, 2018",
+      "role": "Research Assistant",
+      "company": "Universiti Tun Hussein Onn Malaysia (UTHM)"
+    },
+    {
+      "period": "Jun 29, 2015 – Sep 4, 2015",
+      "role": "Industrial Trainee",
+      "company": "Felda Engineering Services Sdn Bhd"
+    },
+    {
+      "period": "Apr 2, 2012 – May 25, 2012",
+      "role": "Industrial Trainee",
+      "company": "Majlis Daerah Jempol"
+    }
+  ],
+  "education": [
+    {
+      "period": "2016-2022",
+      "degree": "Master in Civil Engineering",
+      "institution": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+      "thesis": "Thesis: Earthquake Risk Mapping in Sabah Using Geographic Information System (GIS)"
+    },
+    {
+      "period": "2013-2016",
+      "degree": "Bachelor's Degree in Civil Engineering",
+      "institution": "Universiti Tun Hussein Onn Malaysia (UTHM)"
+    },
+    {
+      "period": "2010-2013",
+      "degree": "Diploma in Civil Engineering",
+      "institution": "Universiti Tun Hussein Onn Malaysia (UTHM)"
+    },
+    {
+      "period": "2008-2009",
+      "degree": "SPM (Pure Science Stream)",
+      "institution": "SMK Lui Barat (Felda) Bandar Seri Jempol, Negeri Sembilan"
+    }
+  ],
+  "skills": {
+    "expert": [
+      { "name": "Microsoft Office", "icon": "bx-grid-alt" }
+    ],
+    "proficient": [
+      { "name": "ArcGIS Desktop 10", "icon": "bxs-planet" },
+      { "name": "QGIS", "icon": "bxl-quora" },
+      { "name": "FME Desktop", "icon": "bxl-instagram-alt" },
+      { "name": "HTML", "icon": "bxs-file-html" },
+      { "name": "CSS", "icon": "bxs-file-css" },
+      { "name": "JavaScript", "icon": "bxs-file-js" }
+    ],
+    "basic": [
+      { "name": "SketchUp", "icon": "bxl-sketch" },
+      { "name": "Primavera", "icon": "bxl-product-hunt" }
+    ]
+  },
+  "projects": [
+    {
+      "title": "3D Interactive Portfolio Book",
+      "image": "Open-Book.webp",
+      "description": "Interactive 3D book portfolio with flip animation, dark mode, and responsive design.",
+      "liveLink": "https://rier.interactivelink.site/RasyidahRaduan",
+      "techStack": ["HTML5", "CSS3", "JavaScript", "CSS Animations", "PWA", "3D Transform"]
+    },
+    {
+      "title": "PWA Case Study: Building a 100% Offline Portfolio",
+      "image": "PWACaseStudy.webp",
+      "description": "Interactive case study demonstrating Progressive Web App capabilities with offline functionality, installability, and performance optimization.",
+      "liveLink": "#",
+      "techStack": ["PWA", "Service Worker", "Offline", "Performance", "Installable", "Testing"]
+    }
+  ],
+  "contact": {
+    "whatsapp": "60193922469",
+    "email": "rasyidah@example.com"
+  }
+}
